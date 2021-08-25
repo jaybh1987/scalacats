@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/laitmatus/Desktop/learning/myprojects/learncats/scalacats/conf/application.conf,/home/laitmatus/Desktop/learning/myprojects/learncats/scalacats/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/laitmatus/Desktop/learning/myprojects/learncats/scalacats/conf/logback.xml,/home/laitmatus/Desktop/learning/myprojects/learncats/scalacats/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/laitmatus/Desktop/learning/myprojects/learncats/scalacats/conf/messages,/home/laitmatus/Desktop/learning/myprojects/learncats/scalacats/target/scala-2.13/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/laitmatus/Desktop/learning/myprojects/learncats/scalacats/conf/routes,/home/laitmatus/Desktop/learning/myprojects/learncats/scalacats/target/scala-2.13/classes/routes)[0m
