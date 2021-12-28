@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalacats.iml" filepath="$PROJECT_DIR$/.idea/modules/scalacats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalacats-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalacats-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalacats_1912.iml" filepath="$PROJECT_DIR$/.idea/modules/scalacats_1912.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalacats_1912-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalacats_1912-build.iml" />
     </modules>

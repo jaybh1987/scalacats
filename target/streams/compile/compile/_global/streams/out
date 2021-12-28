@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/laitmatus/Desktop/learning/scalacats/app/scalacats/Person.scala:15:25: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: scalacats.jsonWrite.Json[0m
+[0m[[0m[31merror[0m] [0m[0m        "name" -> value.name,[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/laitmatus/Desktop/learning/scalacats/app/scalacats/Person.scala:16:26: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: scalacats.jsonWrite.Json[0m
+[0m[[0m[31merror[0m] [0m[0m        "email" -> value.email[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
