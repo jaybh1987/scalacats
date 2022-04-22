@@ -12,6 +12,9 @@ libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0
 libraryDependencies += "org.typelevel" %% "cats-core" % "2.3.0"
 
 
+//val AkkaVersion = "2.6.15"
+//libraryDependencies += "com.typesafe.akka" %% "akka-stream" % AkkaVersion
+
 // Adds additional packages into Twirl
 //TwirlKeys.templateImports += "com.example.controllers._"
 
